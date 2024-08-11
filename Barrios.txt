@@ -1,0 +1,4 @@
+Barrio: Los andes:
+Barrio: Galán:
+Barrio: La magdalena:
+Barrio: Carrizal:
